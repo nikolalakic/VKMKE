@@ -14,7 +14,7 @@ Riznica za predmet višeg kursa konačnih elemenata na master studijama Građevi
 
 #### Windows:
 
-Skini Python sa ovog [linka](https://www.python.org/ftp/python/3.9.4/python-3.9.4-amd64.exe) prilikom instaliranja čekiraj "*Add Python3.9 to PATH*" i nastavi sa instalacijom. Ako na kraju instalacije pita za *path lenght* klikni na plavi tekst pa potom na cancel.
+Skini Python sa ovog [linka](https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe) prilikom instaliranja čekiraj "*Add Python3.9 to PATH*" i nastavi sa instalacijom. Ako na kraju instalacije pita za *path lenght* klikni na plavi tekst pa potom na cancel.
 Nakon uspešne instalacije potrebno je dodati pakete pod nazivom [sympy](https://www.sympy.org/en/index.html), [pandas](https://pandas.pydata.org/), [numpy](https://numpy.org/) i [matplotlib](https://matplotlib.org/). To radiš na sledeći nacin:
 
 1. Otvori *Powershell* desnim klikom na start pa klikni na *Windows Powershell*
@@ -52,12 +52,12 @@ RHEL bazirani distroi: `sudo dnf install git`
 
 1. Otvori *Powershell* u proizvoljnom folderu (može i na desktop-u) tako što držiš taster *shift* i klikneš desni klikni pa klikneš na *Open Powershell window here*
 2. Kloniraj riznicu sa: <br>
-`git clone https://codeberg.org/nikolal/VKMKE.git`
+`git clone https://github.com/nikolalakic/VKMKE.git`
 
 #### Linux:
 
 Promeni radni folder u terminalu gde želiš i nalepi ovu komandu:<br> 
-`git clone https://codeberg.org/nikolal/VKMKE.git`
+`git clone https://github.com/nikolalakic/VKMKE.git`
 
 
 ### Pokretanje skripte
